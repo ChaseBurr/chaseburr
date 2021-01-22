@@ -16,7 +16,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" alt="Heroku" width="60" />
  </p>
 
-
+<h3>Experienced Languages</h3>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C++" width="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="C++" width="45" />
+</p>
 
 
 ##  Projects

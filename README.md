@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github</h1>
-<p align="center"><a href="http://chaseburr.com">Website</a> | <a href="https://www.linkedin.com/in/chaseburr/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="LinkedIn" height="20" /></a></p>
+<p align="center"><a href="http://chaseburr.com">Website</a> | <a href="https://www.linkedin.com/in/chaseburr/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="LinkedIn" height="15" /></a></p>
 
 <h3>Most use languages</h3>
 <p>

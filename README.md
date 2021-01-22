@@ -14,7 +14,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="Heroku" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" alt="Heroku" width="60" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40" />
  </p>
 
 <h3>Experienced Languages</h3>

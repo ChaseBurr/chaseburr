@@ -23,19 +23,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C++" width="45" />
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="C++" width="45" />
 </p>
-
-
-<h2>Projects</h2>
-<h4><a href="https://chaseburr.github.io/Entertainment-App/#/">Entertainment App</a></h4>
-<p>This project use's <a href="https://www.themoviedb.org">TheMovieDB's API</a> to grab data. The Data is displayed using resuable React Components</p>
-
-<h4><a href="https://chaseburr.github.io/Athletic-Shop/#/">Athletic Shop</a></h4>
-<p>This project is still in development. Once it's done, it will use my API to grab data and display the store data and allow users to add items to their cart.</p>
-
-
-<h4><a href="https://chaseburr.github.io/Netflix-Clone/#/">Netflix Clone</a></h4>
-<p>This is my most recent project. I will be cloning Netflix.com using ReactJS. It is still in development, but you can browse my progress with the project link.</p>
-
-<h4><a href="https://chaseburr.github.io/giphy-search/">Giphy</a></h4>
-<p>This is a simple project that use's giphy.com's API to display the searched giph.</p>
-

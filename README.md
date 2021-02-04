@@ -4,9 +4,10 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Python" width="50" />
+  
   
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C++" width="45" />

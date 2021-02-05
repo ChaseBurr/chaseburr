@@ -11,17 +11,26 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C++" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="C++" width="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="42" />
 </p>
 
 <h3>Frameworks & Tools</h3>
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="Heroku" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="MongoDB" height="40" />
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
+  </a>
+  <a href="https://webpack.js.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" />
+  </a>
+  <a href="https://www.heroku.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="Heroku" height="40" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="45" />
+  </a>
  </p>
 
 <h3>Get in touch with me:</h3>

@@ -19,7 +19,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="Heroku" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="MongoDB" height="40" />
  </p>

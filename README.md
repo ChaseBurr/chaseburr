@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github</h1>
 
-<h3>Used Languages</h3>
+<h3>Languages</h3>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="45" />

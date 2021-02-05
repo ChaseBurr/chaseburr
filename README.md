@@ -29,7 +29,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" height="40" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="45" />
+    <img src="https://www.pinclipart.com/picdir/big/336-3367489_mongodb-mongodb-nosql-logo-clipart.png" alt="MongoDB" height="35" />
   </a>
  </p>
 

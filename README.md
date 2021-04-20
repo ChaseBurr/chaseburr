@@ -7,10 +7,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="42" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" />
   <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="42" />
 </p>
 
 <h3>Frameworks & Tools</h3>

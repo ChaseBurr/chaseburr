@@ -18,7 +18,7 @@
   <a href="https://reactjs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://nextjs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" />
   </a>
   

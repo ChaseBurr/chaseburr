@@ -1,12 +1,16 @@
 <h1 align="center">Welcome to my Github</h1>
 
-<h3>Languages</h3>
+<h3>Proficient Languages</h3>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="45" />
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" />
+</p>
+
+<h3>Familiar Languages</h3>
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="42" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" />
@@ -21,7 +25,9 @@
   <a href="https://nextjs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" />
   </a>
-  
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React Native" width="40" />
+  </a>
   <a href="https://webpack.js.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" />
   </a>

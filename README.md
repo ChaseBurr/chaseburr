@@ -22,11 +22,11 @@
   <a href="https://reactjs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" />
   </a>
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" />
+  <a href="https://reactnative.dev/">
+    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React Native" width="40" />
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React Native" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" />
   </a>
   <a href="https://webpack.js.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" />

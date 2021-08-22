@@ -9,17 +9,17 @@
 <h2>Things I code with</h2>
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=ecf0f1" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> 
-  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" /> 
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-2f3640.svg?style=flat-square&logo=react&logoColor=3498db" /> 
+  <img alt="NextJS" src="https://img.shields.io/badge/Next-2f3640?style=flat-square&logo=next.js&logoColor=white" /> 
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-48dbfb?style=flat-square&logo=styled-components&logoColor=white" />
   
 
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS/SCSS-f368e0?style=flat-square&logo=sass&logoColor=white" />
   
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -28,9 +28,9 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2e86de?style=flat-square&logo=mysql&logoColor=white" />
   
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-48dbfb?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />

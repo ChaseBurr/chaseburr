@@ -6,7 +6,7 @@
 <!-- ${your.username}.${your.repo.id} -->
 
 
-<h3>Tools I'm currently coding in:</h3>
+<h3>Languages I'm currently coding in:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f1c40f?style=flat-square&logo=javascript&logoColor=ecf0f1" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />

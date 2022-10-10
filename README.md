@@ -16,7 +16,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS/SCSS-f368e0?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
-<h3>Frameworks/Tools I use:</h3>
+<h3>Frameworks I use:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-2f3640.svg?style=flat-square&logo=react&logoColor=3498db" /> 
   <img alt="NextJS" src="https://img.shields.io/badge/Next-2f3640?style=flat-square&logo=next.js&logoColor=white" />
